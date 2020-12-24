@@ -11,6 +11,7 @@ pip install flask
 We can run the application with:
 
 python3.9 api.py 
+
 You should see a message like this:
 
 * Serving Flask app 'api' (lazy loading)
@@ -22,4 +23,5 @@ Use a production WSGI server instead.
 * Restarting with stat
 * Debugger is active!
 * Debugger PIN:591-543-544
+
 Great! Now we can test our application directly in the browser. Open your browser and type in the URL http://127.0.0.1:5000/and press Enter.
